@@ -1,0 +1,27 @@
+{
+  "profile": {
+    "img":"https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "name": "Naveen M",
+    "pos": "Frontend Developer",
+    "about": "I am a Front End Development Intern Skilled with good knowledge on HTML, CSS, JavaScript, React Js, Redux, Axios & Bootstrap. To work in a friendly environment by contributing the best for the growth of the organization while ensuring personal growth in career and perfect work life balance.",
+    "skill": "HTML",
+    "skill1": "CSS",
+    "skill2": "JAVA SCRIPT",
+    "skill3": "REACT JS",
+    "email": "navinmoorthyyash@gmail.com",
+    "phone": 8892106025,
+    "education": "BACHELOR OF COMPUTER APPLICATION",
+    "institute": "Vivekananda Institute of Management",
+    "education1" : "LATPAS INSTITUTE",
+    "institute1": "Frontend Developer",
+    "experience": "Front End Developer (INTERN)",
+    "p1": "Reformx is a web development, mobile application development organization with a strong focus on staffing solutions",
+    "p2": "Experience in working with responsive web pages.",
+    "p3": "Participated in some developing projects and learnt implementing React JS.",
+    "experience1": "QUALITY ANALYST",
+    "p4": "Dealing with Real-estate property Taxes for land and building",
+    "p5":"Conducting process related training for the new joiners.",
+    "p6":"Worked on web taxes Clients like Amrock and Resware.",
+    "p7":"Deals with web as well as International Tax calling Files and sending email requests."
+  }
+}

@@ -1,0 +1,63 @@
+.details{
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.qualification, .lang{
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+
+
+.progress{
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+.CircularProgressbar-text{
+    color: rgb(90, 89, 89) !important;
+    cursor: pointer;
+}
+
+.CircularProgressbar .CircularProgressbar-text {
+    fill:rgb(90, 89, 89) !important;
+    font-size: 20px;
+ 
+    text-anchor: middle;
+}
+
+.aside{
+    display: flex;
+}
+
+
+span{
+    float: right;
+    margin: 0;
+}
+
+.text1{
+    text-align: justify;
+    width: 80%;
+}
+
+h2, h3, p{
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+
+h1, h2, h3{
+    color: rgb(70, 65, 65);
+}
+
+p{
+    color: rgb(90, 89, 89);
+}
+
+
+.CircularProgressbar .CircularProgressbar-path {
+    stroke: gray;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.5s ease 0s;
+}
